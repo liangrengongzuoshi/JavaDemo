@@ -1,5 +1,6 @@
-###This is my test file.
+## This is my demos of java
 
-### Call me Mr.Liang.
+#### My blog is [http://liangzai.pub](http://liangzai.pub, "良仔的博客")
 
-This is java demo project.
+#### Please wait for update.
+

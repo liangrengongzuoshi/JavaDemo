@@ -1,7 +1,0 @@
-This is my one.txt file
-
-
-Hello git, you are so good!
-
-Hello 2017/05/09 in ubuntu.
-
